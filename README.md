@@ -1,4 +1,5 @@
 # Social Media Information Scraper
+Written in python, powered by selenium.
 
 ## Facebook & Instagram Scrapers
 - Enter a list of company names which you need the contact details of in a text document.
